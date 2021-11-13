@@ -1,4 +1,3 @@
-//Katie Ortiz - Homework #6 - CS 236 - 5/28/2021
 #include <iostream>
 #include <ctime>
 #include <sstream>
